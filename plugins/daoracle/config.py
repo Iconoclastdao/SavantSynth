@@ -1,0 +1,5 @@
+INFURA_URL = "https://mainnet.infura.io/v3/YOUR_KEY"
+DAO_CONTRACT = "0xYourDaoContractAddress"
+PRIVATE_KEY = "0xYourSignerPrivateKey"
+GPT_MODEL = "gpt-4"
+OPENAI_KEY = "sk-..."

@@ -1,0 +1,5 @@
+fastapi==0.100.0
+uvicorn==0.22.0
+spacy==3.7.2
+scispacy==0.5.1
+networkx==3.2.1

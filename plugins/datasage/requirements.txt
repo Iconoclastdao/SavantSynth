@@ -1,0 +1,6 @@
+openai
+rdflib
+networkx
+scispacy
+spacy
+flask

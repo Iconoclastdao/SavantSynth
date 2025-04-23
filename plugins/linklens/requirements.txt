@@ -1,0 +1,4 @@
+flask
+transformers
+torch
+zksnark-py==0.3.1
